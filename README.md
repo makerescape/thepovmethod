@@ -1,2 +1,2 @@
 # thepovmethod
-a process for growing collective creative human intelligence (or CCHI!)
+a process for growing collaborative creative human intelligence (or CCHI!)
